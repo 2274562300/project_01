@@ -1,0 +1,4 @@
+#忽略 css
+index.css
+# 忽略 text 文件夹
+text/
